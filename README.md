@@ -4,8 +4,10 @@
 
 ## How to start the App
 `git log git@github.com:boyuangong/VideoBrowserInReactjs.git`
+
 `npm install`
-'npm start'
+
+`npm start`
 
 ## Learning details
 [Section 1 in Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/content)
